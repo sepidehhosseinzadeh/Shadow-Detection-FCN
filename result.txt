@@ -1,0 +1,6 @@
+ ../caffe/build/tools/caffe.bin test -model train_val.prototxt -weights train_iter_80000.caffemodel -gpu 0 -iterations 300
+
+I0923 11:49:40.468077  2469 caffe.cpp:268] Loss: 6794.6
+I0923 11:49:40.468087  2469 caffe.cpp:280] accuracy = 0.987614
+I0923 11:49:40.468096  2469 caffe.cpp:280] loss = 6794.6 (* 1 = 6794.6 loss)
+
