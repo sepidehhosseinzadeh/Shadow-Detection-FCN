@@ -1,1 +1,1 @@
-# Shadow-Detection-FCN
+# Shadow-Detection-FCN with VOC-FCN32s
